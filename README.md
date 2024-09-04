@@ -3,7 +3,7 @@
 
 
 ## 🌐 Socials:
-![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white) (Alias: Fau.) 
+![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white) | username: "Fau." | 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Linkedin.com/in/fausto-villalba) 
 
 # 💻 Tech Stack:
