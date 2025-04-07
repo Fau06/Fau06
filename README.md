@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @Fau06<br>🌱 I’m currently studying at CoderHouse the Full Stack Developer Career.<br>🤓 I’m constantly learning and looking for new experiences.<br>📫 How to reach me: | fauvillalba06@gmail.com | Linkedin.com/in/fausto-villalba
+👋 Hi, I’m @Fau06<br>🌱 I’m a Full Stack Developer and I´m currently studying the Computer Engineering Career.<br>🤓 I’m constantly learning and looking for new experiences.<br>📫 How to reach me: | fauvillalba06@gmail.com | Linkedin.com/in/fausto-villalba
 
 
 ## 🌐 Socials:
